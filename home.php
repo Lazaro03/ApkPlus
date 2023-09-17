@@ -4,7 +4,7 @@
     "recents": [
         {
             "serial": 83,
-            "title": "7zip",
+            "title": "Udpconect",
             "img": "https://revmedest.sld.cu/public/site/images/lazaro03/index.jpg",
             "id": "https://soft.uclv.edu.cu/7zip/7z2101.exe",
             "likes": "103",
