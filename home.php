@@ -12,7 +12,7 @@
         },
         {
             "serial": 83,
-            "title": "AVG PC TuneUp",
+            "title": "TuneUdp",
             "img": "https://revmedest.sld.cu/public/site/images/lazaro03/xcxcxz.jpg",
             "id": "https://ftp.unah.edu.cu/Herramientas/Mantenimiento/AVG%20PC%20Tuneup/AVG%20PC%20TuneUp.2015.v15.0.1001.238-TE.rar",
             "likes": "103",
