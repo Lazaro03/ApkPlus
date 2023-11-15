@@ -1,0 +1,70 @@
+{
+    "status": "success",
+    "message": "",
+    "results": [
+        {
+            "serial": 21,
+            "title": "AIMP",
+            "img": "https://revmedest.sld.cu/public/site/images/lazaro03/indexs.jpg",
+            "id": "https://soft.uclv.edu.cu/AIMP/aimp_5.01.2358.exe",
+            "likes": "35",
+            "comments": "20"
+        },
+        {
+            "serial": 21,
+            "title": "Picasa",
+            "img": "https://revmedest.sld.cu/public/site/images/lazaro03/%C3%ADndicecc.png",
+            "id": "https://ftp.unah.edu.cu/Media/Picasa/Picasa%203.90%20Build%20137.81.exe",
+            "likes": "35",
+            "comments": "20"
+        },
+        {
+            "serial": 21,
+            "title": "Nox_Setup_v7.0.1.5",
+            "img": "https://revmedest.sld.cu/public/site/images/lazaro03/images.jpg",
+            "id": "https://ftp.unah.edu.cu/Herramientas/Emulador%20de%20android/nox_setup_v7.0.1.5_full_intl.exe",
+            "likes": "35",
+            "comments": "20"
+        },
+        {
+            "serial": 21,
+            "title": "Notepad++",
+            "img": "https://revmedest.sld.cu/public/site/images/lazaro03/sassa.jpg",
+            "id": "https://soft.uclv.edu.cu/Notepad++/npp.7.9.5.Installer.x64.exe",
+            "likes": "35",
+            "comments": "20"
+        },
+        {
+            "serial": 21,
+            "title": "MemuPlay",
+            "img": "https://revmedest.sld.cu/public/site/images/lazaro03/%C3%ADndice.jpg",
+            "id": "https://soft.uclv.edu.cu/MemuPlay/Memu-Setup.exe",
+            "likes": "35",
+            "comments": "20"
+        },
+        {
+            "serial": 21,
+            "title": "KMSAuto Net",
+            "img": "https://revmedest.sld.cu/public/site/images/lazaro03/5.png",
+            "id": "https://dspace.uclv.edu.cu/bitstream/item/18257/KMSAuto%20Net.exe",
+            "likes": "35",
+            "comments": "20"
+        },
+        {
+            "serial": 21,
+            "title": "Bdcamsetup",
+            "img": "https://smi.cujae.edu.cu/file-upload/wWLT7Xro5Zi6fKQSs/1.ico?rc_uid=qyxzWSpbC6mHCQv4u&rc_token=dToQQHt7RUFw_ffp7s5W8L7eufrWXOwdZNKu4Y2Dpmc",
+            "id": "https://dspace.uclv.edu.cu/bitstream/item/18257/bdcamsetup.exe",
+            "likes": "35",
+            "comments": "20"
+        },
+        {
+            "serial": 21,
+            "title": "Net Limiter",
+            "img": "https://revinformatica.sld.cu/public/site/images/lazaro03/image_2023-02-11_15-22-30.png",
+            "id": "https://ftp.unah.edu.cu/Internet%20%26%20Correo/Redes/Net%20Limiter/NetLimiter.3.Pro.v3.0.0.10.rar",
+            "likes": "35",
+            "comments": "20"
+        }
+    ]
+}

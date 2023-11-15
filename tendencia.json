@@ -1,0 +1,62 @@
+{
+    "status": "success",
+    "message": "",
+    "results": [
+        {
+            "serial": 39,
+            "title": "Zapia",
+            "img": "https://revmedest.sld.cu/public/site/images/lazaro03/icon1.png",
+            "id": "https://dspace.uclv.edu.cu/bitstream/item/18257/Zapya.apk",
+            "likes": "35",
+            "comments": "20"
+        },
+        {
+            "serial": 39,
+            "title": "ZArchiver Pro_0.9.5",
+            "img": "https://revmedest.sld.cu/public/site/images/lazaro03/ic_launcher_round.png",
+            "id": "https://dspace.uclv.edu.cu/bitstream/item/18257/ZArchiver%20Pro_0.9.5.apk",
+            "likes": "35",
+            "comments": "20"
+        },
+        {
+            "serial": 39,
+            "title": "ZTK",
+            "img": "https://revmedest.sld.cu/public/site/images/lazaro03/app_icon.png",
+            "id": "https://smi.cujae.edu.cu/file-upload/5T43nNBkb3FtTTk83/ZTK.apk?rc_uid=qyxzWSpbC6mHCQv4u&rc_token=dToQQHt7RUFw_ffp7s5W8L7eufrWXOwdZNKu4Y2Dpmc",
+            "likes": "35",
+            "comments": "20"
+        },
+        {
+            "serial": 40,
+            "title": "PlayPlus(Beta)",
+            "img": "https://smi.cujae.edu.cu/file-upload/6uwvk3kn2aankAmdw/logo.jpg?rc_uid=qyxzWSpbC6mHCQv4u&rc_token=dToQQHt7RUFw_ffp7s5W8L7eufrWXOwdZNKu4Y2Dpmc",
+            "id": "",
+            "likes": "103",
+            "comments": "59"
+        },
+        {
+            "serial": 41,
+            "title": "Cortafuegos_sin_Root",
+            "img": "https://revmedest.sld.cu/public/site/images/lazaro03/launcher.png",
+            "id": "https://dspace.uclv.edu.cu/bitstream/item/18257/Cortafuegos_sin_Root.apk",
+            "likes": "103",
+            "comments": "59"
+        },
+        {
+            "serial": 41,
+            "title": "AddBordas_",
+            "img": "https://revmedest.sld.cu/public/site/images/lazaro03/app_icon2.png",
+            "id": "https://dspace.uclv.edu.cu/bitstream/item/18257/AddBordas_.apk",
+            "likes": "103",
+            "comments": "59"
+        },
+        {
+            "serial": 41,
+            "title": "Datally",
+            "img": "https://revmedest.sld.cu/public/site/images/lazaro03/ic_datally.png",
+            "id": "https://dspace.uclv.edu.cu/bitstream/item/18257/Datally.apk",
+            "likes": "103",
+            "comments": "59"
+        }
+    ]
+}    

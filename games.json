@@ -1,0 +1,54 @@
+{
+    "status": "success",
+    "message": "",
+    "results": [
+        {
+            "serial": 3,
+            "title": "Truck Simulator_Europe 2",
+            "img": "https://revmedest.sld.cu/public/site/images/lazaro03/app_icon4.png",
+            "id": "https://dspace.uclv.edu.cu/bitstream/item/18257/Truck%20Simulator%20_%20Europe%202.apk",
+            "likes": "30",
+            "comments": "00"
+        },
+        {
+            "serial": 3,
+            "title": "Saw Youtubers Game",
+            "img": "https://revmedest.sld.cu/public/site/images/lazaro03/icon.png",
+            "id": "https://dspace.uclv.edu.cu/bitstream/item/18257/saw%20youtubers%20game.apk",
+            "likes": "30",
+            "comments": "00"
+        },
+        {
+            "serial": 6,
+            "title": "Loop_Taxi_1.46",
+            "img": "https://revmedest.sld.cu/public/site/images/lazaro03/app_icon3.png",
+            "id": "https://dspace.uclv.edu.cu/bitstream/item/18257/Loop%20Taxi.apk",
+            "likes": "30",
+            "comments": "00"
+        },
+        {
+            "serial": 4,
+            "title": "Frontiergunners_0.10.6",
+            "img": "https://revinformatica.sld.cu/public/site/images/lazaro03/image_2023-02-11_15-39-39.png",
+            "id": "http://ftp.uo.edu.cu/Android/Linux/Android/Juegos/Games/Shooter/frontiergunners_0.10.6.apk",
+            "likes": "50",
+            "comments": "00"
+        },
+        {
+            "serial": 5,
+            "title": "Sentinel3home",
+            "img": "https://revinformatica.sld.cu/public/site/images/lazaro03/image_2023-02-11_15-45-271.png",
+            "id": "http://ftp.uo.edu.cu/Android/Linux/Android/Juegos/Games/Shooter/Sentinel3home%28www.m4rtyn3zk.com.ar%29.apk",
+            "likes": "50",
+            "comments": "00"
+        },
+        {
+            "serial": 1,
+            "title": "Heavygunner",
+            "img": "https://revinformatica.sld.cu/public/site/images/lazaro03/image_2023-02-11_15-45-01.png",
+            "id": "http://ftp.uo.edu.cu/Android/Linux/Android/Juegos/Games/Shooter/heavygunner_1.0.8.apk",
+            "likes": "30",
+            "comments": "00"
+        }  
+    ]
+}

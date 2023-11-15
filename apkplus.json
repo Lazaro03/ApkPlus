@@ -1,0 +1,70 @@
+{
+    "status": "success",
+    "message": "",
+    "results": [
+        {
+            "serial": 83,
+            "title": "7zip",
+            "img": "https://revmedest.sld.cu/public/site/images/lazaro03/index.jpg",
+            "id": "https://soft.uclv.edu.cu/7zip/7z2101.exe",
+            "likes": "103",
+            "comments": "15"
+        },
+        {
+            "serial": 83,
+            "title": "AVG PC TuneUp",
+            "img": "https://revmedest.sld.cu/public/site/images/lazaro03/xcxcxz.jpg",
+            "id": "https://ftp.unah.edu.cu/Herramientas/Mantenimiento/AVG%20PC%20Tuneup/AVG%20PC%20TuneUp.2015.v15.0.1001.238-TE.rar",
+            "likes": "103",
+            "comments": "15"
+        },
+        {
+            "serial": 83,
+            "title": "Visual.Studio.Code",
+            "img": "https://revmedest.sld.cu/public/site/images/lazaro03/%C3%ADndicez1.jpg",
+            "id": "https://soft.uclv.edu.cu/Microsoft/Visual.Studio.Code/VSCodeUserSetup-x64-1.44.2.exe",
+            "likes": "103",
+            "comments": "15"
+        },
+        {
+            "serial": 83,
+            "title": "KMPlayer",
+            "img": "https://revmedest.sld.cu/public/site/images/lazaro03/%C3%ADndice.png",
+            "id": "https://soft.uclv.edu.cu/KMPlayer/KMPlayer_4.2.2.26.exe",
+            "likes": "103",
+            "comments": "15"
+        },
+        {
+            "serial": 83,
+            "title": "GOM.Player",
+            "img": "https://revmedest.sld.cu/public/site/images/lazaro03/index.png",
+            "id": "https://soft.uclv.edu.cu/GOM.Player/GOM%20Player%20Plus%202.3.30.5289/GOM%20Player%20Plus%202.3.30.5289.rar",
+            "likes": "103",
+            "comments": "15"
+        },
+        {
+            "serial": 83,
+            "title": "Supercopier 04",
+            "img": "https://revmedest.sld.cu/public/site/images/lazaro03/1.png",
+            "id": "https://dspace.uclv.edu.cu/bitstream/item/18257/Supercopier%2004.exe",
+            "likes": "103",
+            "comments": "15"
+        },
+        {
+            "serial": 83,
+            "title": "Win11_22H2_Spanish_x64",
+            "img": "https://revmedest.sld.cu/public/site/images/lazaro03/descarga1.png",
+            "id": "http://ftp.uo.edu.cu/Windows/Sistemas_Operativos/Windows_11/Win11_22H2_Spanish_x64.iso",
+            "likes": "103",
+            "comments": "15"
+        },
+        {
+            "serial": 80,
+            "title": "Simplewall",
+            "img": "https://revinformatica.sld.cu/public/site/images/lazaro03/image_2023-02-11_15-09-471.png",
+            "id": "https://ftp.unah.edu.cu/Internet%20%26%20Correo/Firewall/Simplewall/simplewall-3.2.4-setup.exe",
+            "likes": "103",
+            "comments": "15"
+        }   
+    ]
+}
