@@ -70,7 +70,7 @@
     "upper": [
         {
             "serial": 21,
-            "title": "AIMP",
+            "title": "AIMP2.3",
             "img": "https://revmedest.sld.cu/public/site/images/lazaro03/indexs.jpg",
             "id": "https://soft.uclv.edu.cu/AIMP/aimp_5.01.2358.exe",
             "likes": "35",
